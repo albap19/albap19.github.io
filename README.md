@@ -7,9 +7,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
-
-**Web:**   (url github.io)
+**Titulo** : fashion victim
+**Web:**   albap19.github.io
 
 **Autor:**  (Nombre apellidos)
 
