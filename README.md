@@ -14,38 +14,30 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto busca traer un recuerdo nostalgico de nuestra infancia, cuando jugabamos a los típicos juegos de vestir en los ordenadores de escritorio que tenían nuestros padres. Tanto los personajes como los diseños son propios, siendo el jugador el que puede escoger tanto el personaje como el conjunto de ropa que más le guste.
 
-**Estilo/género:** juego
+**Estilo/género:** juego de vestir
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 800x600px responsivo/o tamaño fijo
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**  Google Chrome, MS EDGE
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   ( ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 35.3MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**
 
-- Github:
-- Twitter
-- Instagram
-
+- Github: albap19
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+En este proyecto puedes 
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
