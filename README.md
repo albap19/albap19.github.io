@@ -40,7 +40,7 @@ Desde la ventana de configuración podemos cambiar la canción a la que más nos
 
 ### 2.2. Esquema de navegación 
 
-(https://github.com/albap19.github.com/esquemahippani.jpg)
+(https://github.com/albap19/albap19.github.io/blob/main/esquemahippani.jpg)
 
 
 
