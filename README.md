@@ -30,53 +30,35 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github: albap19
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-En este proyecto puedes 
-
-
-
+En este proyecto, desde el menú, puedes visitar tanto la galería de personajes, como los créditos y la configuración. También puedes accecer a la parte del juego, donde puedes escoger un personaje y este te lleva a una pantalla en la que escoges un top a elección propia, después, en otra pantalla podrás escoger la parte de abajo del conjunto, y finalmente, los zapatos y algunos accecorios.
+Desde la ventana de configuración podemos cambiar la canción a la que más nos gueste y subir y bajar el volumen.
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+(https://github.com/albap19.github.com/esquemahippani.jpg)
 
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
 
 ### Etapa 1: Ideación de proyecto
-
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque te recuerda a tu infancia, es un juego muy típoco de los años 2000, con un aestética muy marcada.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todo tipo de público
 
 
 
@@ -86,26 +68,26 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- Juego
 - Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Sonido
+- Menús y elementos de navegación 
+- Selección de personajes
+- Puzzle
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El mayor problema con el que me he encontrado ha sido a la hora de selección de personajes, cuando haces clic en el botón y te lleva a la primera escena funciona correctamente, sin embargo cuando pasas a la segunda escena, el personaje escogido desaparece.
+Creo que no he podido solucionar este problema ya que no he encontrado ningún código de JavaScript que me funcione, después de probar varios métodos, me rendí con ese fallo.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
+Para mi este juego es bastante interesante y estoy satisfecha con mi elección tanto del juego como de la estética, mis problemas han sido sobre todo con la programación en JavaScript, sin embargo, con práctica y mucho tiempo intentando entender el lenguaje, he conseguido solucionar más problemas de los que me sentía capaz. 
+Me gustaría saber como corregir el fallo ya mencionado y, después de cursar la asignatura, me gustaría seguir aprendiendo a programar juegos.
 
 
 
@@ -114,23 +96,18 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Juegos de chicas (https://www.juegosdechicas.com)
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: bratz theme song, Slim Thick instrumental, Fiebre instrumental.
+* Imágenes: creadas por mi misma
+* Tipografía: "powerpuff girls font"
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop 2021
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2022
