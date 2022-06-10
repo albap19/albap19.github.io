@@ -10,11 +10,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : fashion victim
 **Web:**   albap19.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alba Pulido Pérez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca traer un recuerdo nostalgico de nuestra infancia, cuando jugabamos a los típicos juegos de vestir en los ordenadores de escritorio que tenían nuestros padres. Tanto los personajes como los diseños son propios, siendo el jugador el que puede escoger tanto el personaje como el conjunto de ropa que más le guste.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   ( ej. Google Chrome / MS Edge... /móviles android )
 
 **Tamaño proyecto:** 14MB 
 
